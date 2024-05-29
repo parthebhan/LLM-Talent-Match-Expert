@@ -1,3 +1,0 @@
-Streamlit == 1.35.0
-PyPDF2 == 3.0.1
-GenerativeAI == 0.5.4
